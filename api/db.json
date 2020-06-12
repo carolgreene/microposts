@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Post Three",
       "body": "This is post three"
+    },
+    {
+      "title": "Post Fout",
+      "body": "This is post four",
+      "id": 4
     }
   ]
 }
